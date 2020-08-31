@@ -2,7 +2,7 @@
 
 Name: Xulai Jiang
 
-Email: xulaijia at usc dot edu
+Email: xulaijia@usc.edu
 
 # How to run lab1.py: 
 Simply $run lab1.py in console of JupyterLab
